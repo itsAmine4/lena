@@ -1,0 +1,31 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto a68c4856d4494ca6b396c6d44cc27661 --incr --debug typical --relax --mt 2 -L fifo_generator_v13_2_5 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_lena_dupliq_behav xil_defaultlib.tb_lena_dupliq xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_textio
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling architecture ff_mama_arch of entity xil_defaultlib.FF_MAMA [ff_mama_default]
+Compiling module fifo_generator_v13_2_5.fifo_generator_v13_2_5_bhv_ver_s...
+Compiling module fifo_generator_v13_2_5.fifo_generator_v13_2_5_CONV_VER(...
+Compiling module fifo_generator_v13_2_5.fifo_generator_vlog_beh(C_COMMON...
+Compiling module xil_defaultlib.fifo_generator_0
+Compiling architecture behavioral of entity xil_defaultlib.compt_decompt [compt_decompt_default]
+Compiling architecture behavioral of entity xil_defaultlib.Clock_Counter [\Clock_Counter(cycle_count=3)\]
+Compiling architecture behavioral of entity xil_defaultlib.add_pixels [add_pixels_default]
+Compiling architecture behavioral of entity xil_defaultlib.add_pixels [\add_pixels(bus_width=9)\]
+Compiling architecture behavioral of entity xil_defaultlib.add_pixels [\add_pixels(bus_width=10)\]
+Compiling architecture behavioral of entity xil_defaultlib.mm_cache [mm_cache_default]
+Compiling architecture arch_tb_lena_dupliq of entity xil_defaultlib.tb_lena_dupliq
+Built simulation snapshot tb_lena_dupliq_behav

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../projet.srcs/sources_1/new/Clock_Counter.vhd" \
+"../../../../../Downloads/FF_jd.vhd" \
+"../../../../projet.srcs/sources_1/new/add_pixels.vhd" \
+"../../../../projet.srcs/sources_1/new/compteur_decompteur.vhd" \
+"../../../../projet.srcs/sources_1/new/memoire_cache.vhd" \
+"../../../../../Downloads/tb_lena_dupliq_2p.vhd" \
+
+# Do not sort compile order
+nosort

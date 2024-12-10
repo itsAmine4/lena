@@ -1,0 +1,1 @@
+-wto "a68c4856d4494ca6b396c6d44cc27661" --incr --debug "typical" --relax --mt "2" -L "fifo_generator_v13_2_5" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "tb_lena_dupliq_behav" "xil_defaultlib.tb_lena_dupliq" "xil_defaultlib.glbl" -log "elaborate.log" 

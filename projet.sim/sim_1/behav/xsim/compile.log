@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/me705924/projet/projet.srcs/sources_1/new/add_pixels.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'add_pixels'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/me705924/projet/projet.srcs/sources_1/new/memoire_cache.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mm_cache'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/me705924/Downloads/tb_lena_dupliq_2p.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_lena_dupliq'
